@@ -10,6 +10,6 @@
 - 📫 How to reach me:
  christianluciano567@gmail.com  
  christianlucianowork46@gmail.com
- (619) 458 - 2548
+<br> (619) 458 - 2548
 
 - Thank you for checking out my account!
