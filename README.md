@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning working on the back end and Node.js. 
 
 - 💞️ I’m looking to collaborate on some of the major frameworks in the industry as soon as I am more comfortable with the back end. I also am intereseted in some solo projects, 
-- however, my main goal is to start a career with a company that has a team of developers.
+      however, my main goal is to start a career with a company that has a team of developers.
 
 - 📫 How to reach me:
  christianluciano567@gmail.com  
