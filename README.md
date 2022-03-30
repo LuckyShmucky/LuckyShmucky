@@ -2,10 +2,9 @@
 
 - 👀 I’m interested in learning software development, more specifically programming websites.
 
-- 🌱 I’m currently learning working on the back end and Node.js. 
+- 🌱 I’m currently familiarizing myself with React. 
 
-- 💞️ I’m looking to collaborate on some of the major frameworks in the industry as soon as I am more comfortable with the back end. I also am intereseted in some solo projects, 
-      however, my main goal is to start a career with a company that has a team of developers.
+- 💞️ I am open to any job offers/collaborations for any project. 
 
 - 📫 How to reach me:
  christianluciano567@gmail.com  
