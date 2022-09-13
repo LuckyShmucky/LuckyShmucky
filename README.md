@@ -4,7 +4,7 @@ Hi 👋 My name is Christian (Lucky) Luciano
 Full Stack Web Developer
 ------------------------
 
-I am currently attending a boot camp at San Diego State University for a full stack development certification. I love to code and approach every project with an enthusiastic attitude. When working in a team I do not have much of a preference when it comes to what my responsibilities are, so just tell me what the goal is and I'll contribute as much as I can to achieve that goal. My main goal is to enter the workforce as a web developer as soon as possible.
+I recently graduated from a boot camp at San Diego State University for a full stack development certification. I love to code and approach every project with an enthusiastic attitude. When working in a team I do not have much of a preference when it comes to what my responsibilities are, so just tell me what the goal is and I'll contribute as much as I can to achieve that goal.
 
 *   🌍  I'm based in United States
 *   ✉️  You can contact me at [christianluciano567@gmail.com](mailto:christianluciano567@gmail.com)
