@@ -8,7 +8,6 @@ I recently graduated from a boot camp at San Diego State University for a full s
 
 *   🌍  I'm based in United States
 *   ✉️  You can contact me at [christianluciano567@gmail.com](mailto:christianluciano567@gmail.com)
-*   🚀  I'm currently working on [Grade School](http://github.com/ACatWalks/GradeSchool3.git)
 *   🤝  I'm open to collaborating on any web applications
 *   ⚡  The tools I use the most when creating a website are: Javascript, Node, React, Mongodb and Express
 <p align="left">
